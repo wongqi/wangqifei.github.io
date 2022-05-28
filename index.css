@@ -9,7 +9,7 @@ body{
 }
 body{
     color: #191919;
-    font-family: pixel,"SF Pro SC","SF Pro Text","SF Pro Icons","PingFang SC", Verdana, Arial, '微软雅黑','宋体';
+    font-family: pixel,SF Pro SCS,SF Pro TeTex,SF Pro IcIcon,PingFang SC, Verdana, Arial, '微软雅黑','宋体';
     font-size:14px;
     background-color: rgb(251, 246, 246);
     letter-spacing: 2px;
@@ -46,8 +46,7 @@ a:hover {
 a:active {
     color: #0000FF;
   }
-#header
-        {
+#header{
        /* 
        background-image:url(https://cdn.pixabay.com/photo/2015/10/29/14/38/web-1012467_1280.jpg);
        background-position:right bottom,left top;
@@ -60,7 +59,7 @@ a:active {
         height: 400px;
         width: 90%;
         max-height: 400px;
-        max:-weight: 90%;
+        max-weight: 90%;
         overflow: hidden;
         }
 
