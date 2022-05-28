@@ -1,0 +1,131 @@
+@charset "utf-8"
+@font-face {
+    font-family: pixel;
+    src: url(font/pixel.ttf);
+    font-style: normal;
+    font-weight: bold;
+}
+body{
+}
+body{
+    color: #191919;
+    font-family: pixel,"SF Pro SC","SF Pro Text","SF Pro Icons","PingFang SC", Verdana, Arial, '微软雅黑','宋体';
+    font-size:14px;
+    background-color: rgb(251, 246, 246);
+    letter-spacing: 2px;
+}
+
+h2, h3, h4, h5, h6, em
+		{
+		font-weight: bold;
+		}
+
+h1{
+    color:black;
+    text-align:center;
+    font-weight: bold;
+}
+
+    /* 未访问的链接 */
+a:link {
+    color: #FF0000;
+}
+
+/* 已访问的链接 */
+a:visited {
+    color: #00FF00;
+}
+
+/* 鼠标悬停链接 */
+a:hover {
+    color: #FF00FF;
+}
+
+/* 已选择的链接 */
+a:active {
+    color: #0000FF;
+  }
+#header
+        {
+       /* 
+       background-image:url(https://cdn.pixabay.com/photo/2015/10/29/14/38/web-1012467_1280.jpg);
+       background-position:right bottom,left top;
+        background-repeat:no-repeat,repeat;
+        */ 
+        margin:auto;
+        padding-top:30px;
+        text-align: center;
+        background-color: rgb(251, 246, 246);
+        height: 400px;
+        width: 90%;
+        max-height: 400px;
+        max:-weight: 90%;
+        overflow: hidden;
+        }
+
+#audio{
+            margin-left: 5px;
+            text-align:left;
+            font-size: 5px; 
+            color: #2f2b2b;
+            word-break: normal;
+            white-space: nowrap;
+            text-overflow: ellipsis; 
+            font-family: pixel,Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;
+            text-decoration: none;
+          }
+#title{
+    font-family: pixel;
+    color: #000000;
+    letter-spacing: 10px;
+    font-weight: bolder;
+    margin-top:30px;
+}
+#avestor{
+    margin-top:10px;
+    margin-bottom: 15px;
+    width: 96px;
+    height: 96xp;
+    border-radius: 50px;
+    overflow: hidden;
+}
+#sologn{
+    width:50%;
+    height:100px;
+    margin:auto;
+}
+
+#section{
+      
+     /*  
+         background-color: blueviolet;
+     */
+        margin:auto;
+        height: 300px;
+        width: 90%;
+        }
+#footer{
+            margin:auto;
+            vertical-align: top;
+            text-align: center;
+            background-color:#ebebeb;
+            height: 40px;
+            width: 90%;
+            clear: both;
+            font-size:10px;
+            overflow: hidden;
+            padding-bottom: 25px;
+            border-radius: 0px 0px 10px 10px;
+            overflow:hidden;
+            }
+#hitokoto{
+            padding: 5px;
+            text-align: center;
+            color: #3f3f40;
+            font-weight:normal;
+            letter-spacing: 5px;
+        } 
+#copyright{
+margin-top: -10px;
+letter-spacing: 3px;
+}
