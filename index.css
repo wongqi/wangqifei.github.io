@@ -1,7 +1,7 @@
 @charset "utf-8"
 @font-face {
     font-family: pixel;
-    src: url(font/pixel.ttf);
+    src: url(/font/pixel.ttf);
     font-style: normal;
     font-weight: bold;
 }
