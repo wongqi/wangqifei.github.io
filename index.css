@@ -93,6 +93,7 @@ a:active {
     width:50%;
     height:100px;
     margin:auto;
+    max-width:100em;
 }
 
 #section{
