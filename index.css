@@ -91,10 +91,10 @@ a:active {
     overflow: hidden;
 }
 #sologn{
-    width:;
+    width:80%;
     height:100px;
     margin:auto;
-    max-width:100em;
+    max-width:80vw;
 }
 
 #section{
