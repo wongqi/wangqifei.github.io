@@ -10,7 +10,7 @@ body{
 body{
     color: #191919;
     font-family: pixel,"SF Pro SC","SF Pro Text","SF Pro Icons","PingFang SC", Verdana, Arial, '微软雅黑','宋体';
-    font-size:1em;
+    font-size:0.8em;
     background-color: rgb(251, 246, 246);
     letter-spacing: 2px;
 }
@@ -66,7 +66,7 @@ a:active {
 #audio{
             margin-left: 5px;
             text-align:left;
-            font-size: 1em; 
+            font-size: 0.6em; 
             color: #2f2b2b;
             word-break: normal;
             white-space: nowrap;
