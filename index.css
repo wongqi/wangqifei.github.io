@@ -15,7 +15,7 @@
 /* 自定义字体 */
 @font-face {
     font-family: pixel;
-    src: url(font/pixel.ttf);
+    src: url(/font/pixel.ttf);
     font-weight: bolder;
 }
 
